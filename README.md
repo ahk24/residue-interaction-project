@@ -9,8 +9,7 @@ Residue Interaction Networks are derived from protein structures based on geomet
 ●	π-cation (PICATION)
 ●	Unclassified contacts
 
-we developed a software that can predict the RING classification of a contact based on statistical or supervised methods, rather than geometrical constraints. The program should is able to calculate the propensity (or probability) of a contact belonging to each of the different contact types defined by RING, starting from the protein structure.
-I developed the AI predictor and my collegue modified a repository of codes and created the command cotrol launcher of the software
+Together with my colleague we developed a software that can predict the RING classification of a contact based on statistical or supervised methods, rather than geometrical constraints. The program should is able to calculate the propensity (or probability) of a contact belonging to each of the different contact types defined by RING, starting from the protein structure. I was mostly responsible for developing the AI predictor and my collegue modified a repository of codes and created the command cotrol launcher of the software
 
 description of the training 
 Introduction:
